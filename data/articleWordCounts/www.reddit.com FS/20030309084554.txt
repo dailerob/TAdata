@@ -1,0 +1,1 @@
+{"wordCounts":{},"timeStamp":{"year":2003,"month":2,"dayOfMonth":9,"hourOfDay":8,"minute":45,"second":54},"totalWords":0,"directory":"https://www.reddit.com/"}

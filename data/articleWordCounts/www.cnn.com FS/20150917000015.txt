@@ -1,0 +1,1 @@
+{"wordCounts":{"44":1,"00":2,"linksaug":1,"oct":2,"quick":1,"jun":2,"captures":2,"16":2,"17":2,"oct172014":1,"201644":1,"2016":1,"2015":3,"helpaug":1,"2014":2,"jan":2,"647":2,"2016aug":1,"close":1,"20":2,"31":2,"sep":3},"timeStamp":{"year":2015,"month":8,"dayOfMonth":17,"hourOfDay":0,"minute":0,"second":15},"totalWords":37,"directory":"http://www.cnn.com/"}

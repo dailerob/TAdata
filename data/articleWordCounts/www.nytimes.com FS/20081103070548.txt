@@ -1,0 +1,1 @@
+{"wordCounts":{"oct":1,"12":2,"feb":2,"dec":2,"captures":2,"16":2,"200932":1,"2009":1,"2008":3,"2007":2,"2":2,"3":2,"597":2,"nov":5,"dec32007":1,"helpoct":1,"2009oct":1,"96":2,"close":1,"32":1},"timeStamp":{"year":2008,"month":10,"dayOfMonth":3,"hourOfDay":7,"minute":5,"second":48},"totalWords":36,"directory":"http://www.nytimes.com/"}

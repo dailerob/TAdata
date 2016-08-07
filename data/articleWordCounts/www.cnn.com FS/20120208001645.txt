@@ -1,0 +1,1 @@
+{"wordCounts":{},"timeStamp":{"year":2012,"month":1,"dayOfMonth":8,"hourOfDay":0,"minute":16,"second":45},"totalWords":0,"directory":"http://www.cnn.com/"}
