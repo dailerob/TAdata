@@ -1,1 +1,0 @@
-{"wordCounts":{"jul":2,"12":2,"jun":3,"feb":2,"jul212012":1,"may":1,"captures":2,"16":2,"2012":2,"helpmay":1,"201432":1,"2014may":1,"2":2,"nov":2,"2014":1,"600":2,"2013":3,"96":2,"close":1,"21":2,"32":1},"timeStamp":{"year":2013,"month":5,"dayOfMonth":21,"hourOfDay":0,"minute":14,"second":49},"totalWords":36,"directory":"http://www.nytimes.com/"}

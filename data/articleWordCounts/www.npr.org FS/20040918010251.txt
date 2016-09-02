@@ -1,1 +1,0 @@
-{"wordCounts":{"oct":2,"feb":2,"dec":2,"captures":2,"16":2,"200519":1,"18":2,"19":1,"2005aug":1,"aug":1,"167":2,"3":2,"2005":1,"2004":3,"helpaug":1,"oct182003":1,"2003":2,"close":1,"97":2,"sep":3,"10":2},"timeStamp":{"year":2004,"month":8,"dayOfMonth":18,"hourOfDay":1,"minute":2,"second":51},"totalWords":36,"directory":"http://www.npr.org/"}

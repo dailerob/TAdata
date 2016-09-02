@@ -1,1 +1,0 @@
-{"wordCounts":{"oct":1,"feb":2,"dec":4,"captures":2,"16":2,"dec72009":1,"18":1,"2011oct":1,"201118":1,"2011":1,"2010":3,"2009":2,"3":2,"nov":3,"7":2,"helpoct":1,"915":2,"96":2,"close":1,"21":2},"timeStamp":{"year":2010,"month":10,"dayOfMonth":7,"hourOfDay":5,"minute":28,"second":2},"totalWords":36,"directory":"http://www.latimes.com/"}

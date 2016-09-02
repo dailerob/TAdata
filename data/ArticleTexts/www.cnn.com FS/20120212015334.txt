@@ -1,1 +1,0 @@
-{"htmlTagMap":{"p":"","h1":"",".title":"","h2":"","h3":"",".snippet":"","h4":"","h5":"","h6":"","tr":"","article":""},"timeStamp":{"year":2012,"month":1,"dayOfMonth":12,"hourOfDay":1,"minute":53,"second":34},"articleSource":"http://www.cnn.com/"}

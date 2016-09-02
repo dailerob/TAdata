@@ -1,1 +1,0 @@
-{"htmlTagMap":{"p":"","h1":"",".title":"","h2":"","h3":"",".snippet":"","h4":"","h5":"","h6":"","tr":"","article":""},"timeStamp":{"year":2004,"month":5,"dayOfMonth":18,"hourOfDay":22,"minute":44,"second":33},"articleSource":"http://www.buzzfeed.com/"}
