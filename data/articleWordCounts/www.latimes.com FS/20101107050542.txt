@@ -1,0 +1,1 @@
+{"wordCounts":{"22":1,"oct":1,"dec":4,"captures":2,"16":2,"dec72009":1,"2011oct":1,"2011":1,"2010":3,"2009":2,"2":2,"201122":1,"nov":3,"842":2,"7":2,"helpoct":1,"96":2,"close":1,"21":2,"sep":2},"timeStamp":20101107050542,"totalWords":36,"directory":"http://www.latimes.com/"}
