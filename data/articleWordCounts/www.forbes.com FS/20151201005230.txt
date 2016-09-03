@@ -1,0 +1,1 @@
+{"wordCounts":{},"timeStamp":20151201005230,"totalWords":0,"directory":"http://www.forbes.com/"}

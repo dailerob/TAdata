@@ -1,0 +1,1 @@
+{"wordCounts":{"00":2,"apr":2,"jun":2,"set":1,"captures":2,"16":4,"helpfeb":1,"edition":3,"preference:set":2,"preference:feb":1,"201752":1,"apr162015":1,"2017feb":1,"2017":1,"300":2,"3":2,"2016":3,"2015":2,"52":1,"close":1,"20":2,"mar":3,"sep":2},"timeStamp":20160316003736,"totalWords":42,"directory":"http://www.cnn.com/"}

@@ -1,0 +1,1 @@
+{"wordCounts":{},"timeStamp":20120322001704,"totalWords":0,"directory":"http://www.cnn.com/"}

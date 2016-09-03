@@ -1,0 +1,1 @@
+{"htmlTagMap":{"p":"","h1":"",".title":"","h2":"","h3":"",".snippet":"","h4":"","h5":"","h6":"","tr":"JAN FEB MAR 2 2005 2006 2007 21,568 captures 4 Nov 96 - 3 Sep 16 Close HelpJAN FEB MAR 2 2005 2006 2007JAN FEB MAR22005 2006 200721,568 captures 4 Nov 96 - 3 Sep 16","article":""},"timeStamp":20060202025526,"articleSource":"http://www.forbes.com/"}
