@@ -1,0 +1,1 @@
+{"htmlTagMap":{"p":"","h1":"",".title":"","h2":"","h3":"",".snippet":"","h4":"","h5":"","h6":"","tr":"JUN JUL AUG 4 2012 2013 2014 39,717 captures 12 Nov 96 - 3 Sep 16 Close HelpJUN JUL AUG 4 2012 2013 2014JUN JUL AUG42012 2013 201439,717 captures 12 Nov 96 - 3 Sep 16","article":""},"timeStamp":20130704005000,"articleSource":"http://www.nytimes.com/"}

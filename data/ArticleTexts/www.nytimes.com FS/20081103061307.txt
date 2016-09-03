@@ -1,0 +1,1 @@
+{"htmlTagMap":{"p":"","h1":"",".title":"","h2":"","h3":"",".snippet":"","h4":"","h5":"","h6":"","tr":"OCT NOV DEC 3 2007 2008 2009 39,714 captures 12 Nov 96 - 3 Sep 16 Close HelpOCT NOV DEC 3 2007 2008 2009OCT NOV DEC32007 2008 200939,714 captures 12 Nov 96 - 3 Sep 16","article":""},"timeStamp":20081103061307,"articleSource":"http://www.nytimes.com/"}

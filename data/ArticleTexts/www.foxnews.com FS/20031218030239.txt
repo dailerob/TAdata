@@ -1,0 +1,1 @@
+{"htmlTagMap":{"p":"","h1":"",".title":"","h2":"","h3":"",".snippet":"","h4":"","h5":"","h6":"","tr":"OCT DEC JAN 18 2002 2003 2005 20,882 captures 22 Oct 96 - 31 Aug 16 Close HelpOCT DEC JAN 18 2002 2003 2005OCT DEC JAN182002 2003 200520,882 captures 22 Oct 96 - 31 Aug 16","article":""},"timeStamp":20031218030239,"articleSource":"http://www.foxnews.com/"}

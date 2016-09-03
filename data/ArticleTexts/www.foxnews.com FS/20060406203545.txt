@@ -1,0 +1,1 @@
+{"htmlTagMap":{"p":"","h1":"",".title":"","h2":"","h3":"",".snippet":"","h4":"","h5":"","h6":"","tr":"MAR APR MAY 6 2005 2006 2007 20,934 captures 22 Oct 96 - 2 Sep 16 Close HelpMAR APR MAY 6 2005 2006 2007MAR APR MAY62005 2006 200720,934 captures 22 Oct 96 - 2 Sep 16","article":""},"timeStamp":20060406203545,"articleSource":"http://www.foxnews.com/"}

@@ -1,0 +1,1 @@
+{"wordCounts":{"jul":2,"22":2,"jul132003":1,"oct":2,"apr":1,"jun":3,"13":2,"captures":2,"16":2,"helpapr":1,"200520":1,"2":2,"2005":1,"2004":3,"2003":2,"934":2,"96":2,"close":1,"20":1,"2005apr":1,"sep":2},"timeStamp":20040629021659,"totalWords":36,"directory":"http://www.foxnews.com/"}

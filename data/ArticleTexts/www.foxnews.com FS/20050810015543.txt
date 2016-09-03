@@ -1,0 +1,1 @@
+{"htmlTagMap":{"p":"","h1":"",".title":"","h2":"","h3":"",".snippet":"","h4":"","h5":"","h6":"","tr":"JUL AUG SEP 10 2004 2005 2006 20,882 captures 22 Oct 96 - 31 Aug 16 Close HelpJUL AUG SEP 10 2004 2005 2006JUL AUG SEP102004 2005 200620,882 captures 22 Oct 96 - 31 Aug 16","article":""},"timeStamp":20050810015543,"articleSource":"http://www.foxnews.com/"}

@@ -1,0 +1,1 @@
+{"wordCounts":{"22":2,"oct":5,"13":2,"captures":2,"16":2,"2004aug":1,"200420":1,"aug":3,"882":2,"nov":2,"2004":1,"helpaug":1,"2003":3,"2002":2,"nov132002":1,"96":2,"close":1,"20":1,"31":2},"timeStamp":20031013170419,"totalWords":36,"directory":"http://www.foxnews.com/"}

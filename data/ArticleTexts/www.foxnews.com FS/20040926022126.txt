@@ -1,0 +1,1 @@
+{"htmlTagMap":{"p":"","h1":"",".title":"","h2":"","h3":"",".snippet":"","h4":"","h5":"","h6":"","tr":"AUG SEP NOV 26 2003 2004 2005 20,934 captures 22 Oct 96 - 2 Sep 16 Close HelpAUG SEP NOV 26 2003 2004 2005AUG SEP NOV262003 2004 200520,934 captures 22 Oct 96 - 2 Sep 16","article":""},"timeStamp":20040926022126,"articleSource":"http://www.foxnews.com/"}

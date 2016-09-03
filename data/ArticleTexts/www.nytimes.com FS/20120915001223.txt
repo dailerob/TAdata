@@ -1,0 +1,1 @@
+{"htmlTagMap":{"p":"","h1":"",".title":"","h2":"","h3":"",".snippet":"","h4":"","h5":"","h6":"","tr":"AUG SEP OCT 15 2011 2012 2013 39,717 captures 12 Nov 96 - 3 Sep 16 Close HelpAUG SEP OCT 15 2011 2012 2013AUG SEP OCT152011 2012 201339,717 captures 12 Nov 96 - 3 Sep 16","article":""},"timeStamp":20120915001223,"articleSource":"http://www.nytimes.com/"}

@@ -1,0 +1,1 @@
+{"htmlTagMap":{"p":"","h1":"",".title":"","h2":"","h3":"",".snippet":"","h4":"","h5":"","h6":"","tr":"MAY JUN JUL 12 2004 2005 2006 20,919 captures 22 Oct 96 - 2 Sep 16 Close HelpMAY JUN JUL 12 2004 2005 2006MAY JUN JUL122004 2005 200620,919 captures 22 Oct 96 - 2 Sep 16","article":""},"timeStamp":20050612011246,"articleSource":"http://www.foxnews.com/"}

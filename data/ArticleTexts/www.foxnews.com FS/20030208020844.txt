@@ -1,0 +1,1 @@
+{"htmlTagMap":{"p":"","h1":"",".title":"","h2":"","h3":"",".snippet":"","h4":"","h5":"","h6":"","tr":"DEC FEB MAR 8 2001 2003 2004 20,934 captures 22 Oct 96 - 2 Sep 16 Close HelpDEC FEB MAR 8 2001 2003 2004DEC FEB MAR82001 2003 200420,934 captures 22 Oct 96 - 2 Sep 16","article":""},"timeStamp":20030208020844,"articleSource":"http://www.foxnews.com/"}
